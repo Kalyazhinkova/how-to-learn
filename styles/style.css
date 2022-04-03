@@ -16,8 +16,6 @@
   /* выше установили ограничения для секции */
   background-color: #f2f2f2;
   display: flex;
-  margin: 0;
-  padding: 0;
   position: relative;
 }
 
@@ -32,7 +30,7 @@
   top: 30px;
 }
 
-.title {
+.header__title {
   width: 730px;
   font-size: 102px;
   line-height: 96px;
@@ -45,7 +43,7 @@
   z-index: 2;
 }
 
-.subtitle {
+.header__subtitle {
   position: absolute;
   left: 64px;
   bottom: 30px;
