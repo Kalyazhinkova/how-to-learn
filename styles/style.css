@@ -48,17 +48,19 @@
 .subtitle {
   position: absolute;
   left: 64px;
-  bottom: 64px;
+  bottom: 30px;
   width: 388px;
   font-size: 18px;
   line-height: 25px;
   font-weight: normal;
   color: #000000;
   z-index: 2;
+  margin: 0;
 }
 
 .link {
   text-decoration-line: none;
+  color: #2f80ed;
 }
 
 .main-illustration{
@@ -134,6 +136,7 @@
   color: #000000;
   text-align: center;
   margin: 0;
+  padding: 0 20% 0 20%;
 }
 
 .section-subtitle {
@@ -143,8 +146,8 @@
   color: #000000;
   text-align: center;
   margin: 0;
-  padding-top: 20px;
   z-index: 1;
+  padding: 20px 20% 0 20%;
 }
 
 .table {
@@ -327,8 +330,9 @@
 }
 
 .footer__social-icon {
-  width: 10px;
-  height: 10px;
+  width: 16px;
+  height: 16px;
+  margin: auto 10px auto 0;
 }
 
 
