@@ -24,7 +24,7 @@
   height: 32px;
 }
 
-.logo_place-header {
+.logo_place_header {
   position: absolute;
   left: 64px;
   top: 30px;
@@ -65,7 +65,7 @@
   text-decoration: underline;
 }
 
-.main-illustration{
+.header__main-illustration{
   width: 765px;
   height: 608px;
   position: absolute;
@@ -301,7 +301,7 @@
   min-height: 250px;
 }
 
-.footer__column_content-copyright {
+.footer__column_content_copyright {
   flex-basis: 711px;
   display: flex;
   flex-direction: column;
