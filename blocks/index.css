@@ -63,7 +63,7 @@
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
-@import url(../blocks/two-columns/__paragraph/_accent/two-columns__paragraph_accent.css);
+@import url(../blocks/two-columns/__paragraph-accent/two-columns__paragraph-accent.css);
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
